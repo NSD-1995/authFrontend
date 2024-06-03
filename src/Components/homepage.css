@@ -1,0 +1,23 @@
+.Heading {
+    text-align: center;
+    margin-top: 300px;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content:center
+}
+  
+  
+  .Heading a {
+    margin: 0 15px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+  }
+  
+  .Heading a:hover {
+    background-color: #0056b3;
+  }
+  

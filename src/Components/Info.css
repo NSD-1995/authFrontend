@@ -1,0 +1,22 @@
+.info-container {
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+  }
+  
+  .logout-link {
+    color: blue;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .Headertext{
+    font-size: 70px;
+  }
+
+  .Logout{
+    text-align: end;
+    margin-right: 100px;
+  }
